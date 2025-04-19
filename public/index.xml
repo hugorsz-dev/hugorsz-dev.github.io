@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>hugorsz-dev</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Últimas 10 notas on hugorsz-dev</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Conversión de documentos</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</guid>
+    <description>Un portal que enlaza archivos PDF y HTML Un discreto script programado en Python, que emplea las utilidades soffice, pandoc y pdftohtml para convertir mi biblioteca de documentos en una página web funcional.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>1º Configuración del entorno de trabajo</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/1%C2%BA-Configuraci%C3%B3n-del-entorno-de-trabajo</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/1%C2%BA-Configuraci%C3%B3n-del-entorno-de-trabajo</guid>
+    <description>Sistema operativo HTMA funciona en cualquier sistema operativo, en tanto este sea capaz de ejecutar Python 3.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>2º Primer proyecto en HTMA</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/2%C2%BA-Primer-proyecto-en-HTMA</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/2%C2%BA-Primer-proyecto-en-HTMA</guid>
+    <description>Estructura de directorios Crea una carpeta de proyecto (first_project), ubícate dentro de ella y crea una nueva carpeta (myweb).</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>3º Redirecciones de markdown</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/3%C2%BA-Redirecciones-de-markdown</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/3%C2%BA-Redirecciones-de-markdown</guid>
+    <description>Redirecciones de markdown ¿Qué es una “variable especial”? Como se ha visto en el tema previo, el campo REDIR predispone a la lectura de una extensión: Si es MD, solo leerá los archivos .md del directorio al que apunta el campo DIR.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>4º Redirecciones entre plantillas</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/4%C2%BA-Redirecciones-entre-plantillas</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/4%C2%BA-Redirecciones-entre-plantillas</guid>
+    <description>Hasta este punto, la documentación solo ha abordado el uso de REDIR: MD.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>5º Variables globales</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/5%C2%BA-Variables-globales</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/5%C2%BA-Variables-globales</guid>
+    <description>¿Qué es una variable global? Las variables globales son un conjunto de valores comunes a todos los formatos de archivo.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>6º Redirecciones de todo tipo de archivos</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/6%C2%BA-Redirecciones-de-todo-tipo-de-archivos</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/6%C2%BA-Redirecciones-de-todo-tipo-de-archivos</guid>
+    <description>Por ahora, solo se han expuesto casos de uso en que se redirigían extensiones .htma y .md.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>7º Los parámetros ORDER_BY y REDIR_LIMIT</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/7%C2%BA-Los-par%C3%A1metros-ORDER_BY-y-REDIR_LIMIT</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/7%C2%BA-Los-par%C3%A1metros-ORDER_BY-y-REDIR_LIMIT</guid>
+    <description>Las iteraciones de los archivos pueden ordenarse según varios criterios, si se introduce el parámetro ORDER_BY dentro del bloque HTMA.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Presentación de HTMA</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Presentaci%C3%B3n-de-HTMA</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Presentaci%C3%B3n-de-HTMA</guid>
+    <description> HTML Template and Markdown Automator, o HTMA, es un sencillo generador de páginas estáticas programado en Python, que tiene como objetivo facilitar la integración de documentos en formato markdown, así como todo tipo de archivos, en HTML.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Bot de whatsapp - sandrita</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</guid>
+    <description>Sandrita es un bot de Whatsapp programado en Python, destacable por su fácil extensibilidad.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
