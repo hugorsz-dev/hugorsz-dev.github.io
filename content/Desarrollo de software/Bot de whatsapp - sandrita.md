@@ -109,7 +109,7 @@ En cada módulo de `config.json`, hay una sección de manual donde se describe c
 
 ### Demostración en vídeo 
 
-<iframe width="1366" height="768" src="https://www.youtube.com/embed/db-KADjds0U" title="Explicación y demostración de SANDRITA - Bot de whatsapp en python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="445" height="300" src="https://www.youtube.com/embed/db-KADjds0U" title="Explicación y demostración de SANDRITA - Bot de whatsapp en python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Acceso al repositorio
 
