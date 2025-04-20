@@ -6,64 +6,64 @@
       <description>Últimas 10 notas on hugorsz-dev</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>findo</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/findo</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/findo</guid>
+    <description>Una utilidad de línea de comandos escrita en Rust que busca archivos que contienen texto específico y organiza los resultados por estructura de directorios en varios formatos de salida.</description>
+    <pubDate>Sun, 20 Apr 2025 01:05:15 GMT</pubDate>
+  </item><item>
+    <title>Conectar servidor VPS a dominio</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Gu%C3%ADas-y-apuntes/Conectar-servidor-VPS-a-dominio</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Gu%C3%ADas-y-apuntes/Conectar-servidor-VPS-a-dominio</guid>
+    <description>Una sencilla guía para conectar un dominio - adquirido desde la página de Namecheap -, a una página web alojada dentro de un VPS.</description>
+    <pubDate>Sun, 20 Apr 2025 00:59:03 GMT</pubDate>
+  </item><item>
+    <title>Bot de whatsapp - sandrita</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</guid>
+    <description>Sandrita es un bot de Whatsapp programado en Python, destacable por su fácil extensibilidad.</description>
+    <pubDate>Sat, 19 Apr 2025 23:20:27 GMT</pubDate>
+  </item><item>
+    <title>Bienvenido</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Hola, soy Hugo Ruiz Sánchez, de España (Madrid), tengo echo $(( date +%Y - 2003 )) años, y me dedico al desarrollo de software.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Tasador Automático</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Tasador-Autom%C3%A1tico</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Tasador-Autom%C3%A1tico</guid>
+    <description>Un sistema de cálculo adaptado adaptado a las particularidades del videojuego de rol ‘Puerta de Baldur’ La mercancía mágica nunca fue más fácil de tasar.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Terminal Essentials</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Terminal-Essentials</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Terminal-Essentials</guid>
+    <description>Librería de proyección de gráficos en termional basada en Lanterna En base a una versión reducida Lanterna 3.1.1 (una librería que provee utilidades básicas para la terminal), Terminal Essentials parte como un ejercicio meramente práctico consistente en la implementación propia de funciones ya integ...</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Módulo de formación dual BIG DATA+</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/M%C3%B3dulo-de-formaci%C3%B3n-dual-BIG-DATA+</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/M%C3%B3dulo-de-formaci%C3%B3n-dual-BIG-DATA+</guid>
+    <description>Módulo de formación dual “Big Data+” ofrecido por la Cámara de Comercio Alemana Módulo del curso BigData+, que incluye ejercicios de gestión de bases de datos en Python mediante la librería pandas y la proyección de los mismos en gráficos y tablas con seaborn y matplotlib.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
+    <title>Retos de programación</title>
+    <link>https://quartz.jzhao.xyz/Papelera/Retos-de-programaci%C3%B3n</link>
+    <guid>https://quartz.jzhao.xyz/Papelera/Retos-de-programaci%C3%B3n</guid>
+    <description>Hubo un tiempo en que consideré realizar algunos retos de programación aplicados a distintos lenguajes, con la intención de no olvidarlos.</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
+  </item><item>
     <title>Conversión de documentos</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</guid>
     <description>Un portal que enlaza archivos PDF y HTML Un discreto script programado en Python, que emplea las utilidades soffice, pandoc y pdftohtml para convertir mi biblioteca de documentos en una página web funcional.</description>
     <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
   </item><item>
-    <title>1º Configuración del entorno de trabajo</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/1%C2%BA-Configuraci%C3%B3n-del-entorno-de-trabajo</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/1%C2%BA-Configuraci%C3%B3n-del-entorno-de-trabajo</guid>
-    <description>Sistema operativo HTMA funciona en cualquier sistema operativo, en tanto este sea capaz de ejecutar Python 3.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>2º Primer proyecto en HTMA</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/2%C2%BA-Primer-proyecto-en-HTMA</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/2%C2%BA-Primer-proyecto-en-HTMA</guid>
-    <description>Estructura de directorios Crea una carpeta de proyecto (first_project), ubícate dentro de ella y crea una nueva carpeta (myweb).</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>3º Redirecciones de markdown</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/3%C2%BA-Redirecciones-de-markdown</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/3%C2%BA-Redirecciones-de-markdown</guid>
-    <description>Redirecciones de markdown ¿Qué es una “variable especial”? Como se ha visto en el tema previo, el campo REDIR predispone a la lectura de una extensión: Si es MD, solo leerá los archivos .md del directorio al que apunta el campo DIR.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>4º Redirecciones entre plantillas</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/4%C2%BA-Redirecciones-entre-plantillas</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/4%C2%BA-Redirecciones-entre-plantillas</guid>
-    <description>Hasta este punto, la documentación solo ha abordado el uso de REDIR: MD.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>5º Variables globales</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/5%C2%BA-Variables-globales</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/5%C2%BA-Variables-globales</guid>
-    <description>¿Qué es una variable global? Las variables globales son un conjunto de valores comunes a todos los formatos de archivo.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>6º Redirecciones de todo tipo de archivos</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/6%C2%BA-Redirecciones-de-todo-tipo-de-archivos</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/6%C2%BA-Redirecciones-de-todo-tipo-de-archivos</guid>
-    <description>Por ahora, solo se han expuesto casos de uso en que se redirigían extensiones .htma y .md.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>7º Los parámetros ORDER_BY y REDIR_LIMIT</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/7%C2%BA-Los-par%C3%A1metros-ORDER_BY-y-REDIR_LIMIT</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Documentaci%C3%B3n-HTMA/7%C2%BA-Los-par%C3%A1metros-ORDER_BY-y-REDIR_LIMIT</guid>
-    <description>Las iteraciones de los archivos pueden ordenarse según varios criterios, si se introduce el parámetro ORDER_BY dentro del bloque HTMA.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Presentación de HTMA</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Presentaci%C3%B3n-de-HTMA</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Presentaci%C3%B3n-de-HTMA</guid>
-    <description> HTML Template and Markdown Automator, o HTMA, es un sencillo generador de páginas estáticas programado en Python, que tiene como objetivo facilitar la integración de documentos en formato markdown, así como todo tipo de archivos, en HTML.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Bot de whatsapp - sandrita</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</guid>
-    <description>Sandrita es un bot de Whatsapp programado en Python, destacable por su fácil extensibilidad.</description>
+    <title>Ajuste de brillo</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo</guid>
+    <description>Script para XRandR que posibilita la reducción del brillo de los monitores desde una interfaz de software En vista de que no podía configurar manualmente el brillo de mis monitores desarrollé una utilidad para los sistemas operativos GNU/Linux dedicada a los entornos de escritorio que usan el protoc...</description>
     <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
   </item>
     </channel>
