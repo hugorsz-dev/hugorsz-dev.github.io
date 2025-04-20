@@ -3,7 +3,7 @@
 
 Tras la caída de [Anonfiles](https://old.reddit.com/r/privacy/comments/15oiqwr/did_anon_files_shut_down/?tl=es-es), un servicio privado de subida de archivos, decidí alojar mi propia alternativa de uso exclusivamente personal dentro de un <abbr title="Servidor virtual privado">VPS</abbr>. 
 
-El exilio de este proyecto en la papelera responde a su evidente simplicidad. Treinta líneas de código en PHP, y su imprescun paupérrimo estilo 
+El exilio de este proyecto en la papelera responde a su evidente simplicidad. Treinta líneas de código en PHP, y su estilo más bien pobre.
 
 
 ## Funcionamiento

@@ -7,4 +7,6 @@ Para equipos que no hacen uso de entornos de escritorio que faciliten la tarea d
 El programa recibe dos parámetros de entrada: nombre de la red y contraseña, que posteriormente archiva en un fichero de configuración que utiliza - hasta ser modificado - para establecer la conexión cada vez que se llama.
 
 ###  Acceso al repositorio 
- Puedes ver y descargar el repositorio en [esta página de GitHub](https://github.com/hugorsz-dev/script-wpa-wifi).
+
+Puedes ver y descargar el repositorio en [esta página de GitHub](https://github.com/hugorsz-dev/script-wpa-wifi).
+

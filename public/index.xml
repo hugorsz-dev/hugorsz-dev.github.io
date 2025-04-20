@@ -6,65 +6,65 @@
       <description>Últimas 10 notas on hugorsz-dev</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>HTML</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/HTML</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/HTML</guid>
+    <description>Este repositorio contiene mi recorrido aprendiendo HTML (HyperText Markup Language).</description>
+    <pubDate>Sun, 20 Apr 2025 11:16:46 GMT</pubDate>
+  </item><item>
+    <title>C++</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/C++</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/C++</guid>
+    <description>Este repositorio contiene mi recorrido aprendiendo programación en C++.</description>
+    <pubDate>Sun, 20 Apr 2025 11:16:39 GMT</pubDate>
+  </item><item>
+    <title>Web-scrapping de enduring-world</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</guid>
+    <description> Scraper de Comentarios Una utilidad en Python para descargar y compilar los comentarios de la web de Enduring Word (versión en español).</description>
+    <pubDate>Sun, 20 Apr 2025 11:15:55 GMT</pubDate>
+  </item><item>
+    <title>pladur</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/pladur</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/pladur</guid>
+    <description>Pladur - Texto no seleccionable analizado con IA.</description>
+    <pubDate>Sun, 20 Apr 2025 10:56:59 GMT</pubDate>
+  </item><item>
+    <title>CSS</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/CSS</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/CSS</guid>
+    <description>Este repositorio contiene mi recorrido aprendiendo CSS (Cascading Style Sheets).</description>
+    <pubDate>Sun, 20 Apr 2025 10:49:36 GMT</pubDate>
+  </item><item>
+    <title>Rust</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Rust</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Rust</guid>
+    <description>Este repositorio contiene mi recorrido aprendiendo programación en Rust.</description>
+    <pubDate>Sun, 20 Apr 2025 10:47:46 GMT</pubDate>
+  </item><item>
+    <title>Python</title>
+    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Python</link>
+    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Python</guid>
+    <description>Este repositorio contiene mi recorrido aprendiendo programación en Python.</description>
+    <pubDate>Sun, 20 Apr 2025 10:40:01 GMT</pubDate>
+  </item><item>
     <title>findo</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/findo</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/findo</guid>
     <description>Una utilidad de línea de comandos escrita en Rust que busca archivos que contienen texto específico y organiza los resultados por estructura de directorios en varios formatos de salida.</description>
-    <pubDate>Sun, 20 Apr 2025 01:05:15 GMT</pubDate>
+    <pubDate>Sun, 20 Apr 2025 01:06:12 GMT</pubDate>
   </item><item>
     <title>Conectar servidor VPS a dominio</title>
     <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Gu%C3%ADas-y-apuntes/Conectar-servidor-VPS-a-dominio</link>
     <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Gu%C3%ADas-y-apuntes/Conectar-servidor-VPS-a-dominio</guid>
     <description>Una sencilla guía para conectar un dominio - adquirido desde la página de Namecheap -, a una página web alojada dentro de un VPS.</description>
-    <pubDate>Sun, 20 Apr 2025 00:59:03 GMT</pubDate>
+    <pubDate>Sun, 20 Apr 2025 01:06:12 GMT</pubDate>
   </item><item>
     <title>Bot de whatsapp - sandrita</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Bot-de-whatsapp---sandrita</guid>
     <description>Sandrita es un bot de Whatsapp programado en Python, destacable por su fácil extensibilidad.</description>
     <pubDate>Sat, 19 Apr 2025 23:20:27 GMT</pubDate>
-  </item><item>
-    <title>Bienvenido</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Hola, soy Hugo Ruiz Sánchez, de España (Madrid), tengo echo $(( date +%Y - 2003 )) años, y me dedico al desarrollo de software.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Tasador Automático</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Tasador-Autom%C3%A1tico</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Tasador-Autom%C3%A1tico</guid>
-    <description>Un sistema de cálculo adaptado adaptado a las particularidades del videojuego de rol ‘Puerta de Baldur’ La mercancía mágica nunca fue más fácil de tasar.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Terminal Essentials</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Terminal-Essentials</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Terminal-Essentials</guid>
-    <description>Librería de proyección de gráficos en termional basada en Lanterna En base a una versión reducida Lanterna 3.1.1 (una librería que provee utilidades básicas para la terminal), Terminal Essentials parte como un ejercicio meramente práctico consistente en la implementación propia de funciones ya integ...</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Módulo de formación dual BIG DATA+</title>
-    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/M%C3%B3dulo-de-formaci%C3%B3n-dual-BIG-DATA+</link>
-    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/M%C3%B3dulo-de-formaci%C3%B3n-dual-BIG-DATA+</guid>
-    <description>Módulo de formación dual “Big Data+” ofrecido por la Cámara de Comercio Alemana Módulo del curso BigData+, que incluye ejercicios de gestión de bases de datos en Python mediante la librería pandas y la proyección de los mismos en gráficos y tablas con seaborn y matplotlib.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Retos de programación</title>
-    <link>https://quartz.jzhao.xyz/Papelera/Retos-de-programaci%C3%B3n</link>
-    <guid>https://quartz.jzhao.xyz/Papelera/Retos-de-programaci%C3%B3n</guid>
-    <description>Hubo un tiempo en que consideré realizar algunos retos de programación aplicados a distintos lenguajes, con la intención de no olvidarlos.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Conversión de documentos</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Conversi%C3%B3n-de-documentos</guid>
-    <description>Un portal que enlaza archivos PDF y HTML Un discreto script programado en Python, que emplea las utilidades soffice, pandoc y pdftohtml para convertir mi biblioteca de documentos en una página web funcional.</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
-  </item><item>
-    <title>Ajuste de brillo</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo</guid>
-    <description>Script para XRandR que posibilita la reducción del brillo de los monitores desde una interfaz de software En vista de que no podía configurar manualmente el brillo de mis monitores desarrollé una utilidad para los sistemas operativos GNU/Linux dedicada a los entornos de escritorio que usan el protoc...</description>
-    <pubDate>Thu, 17 Apr 2025 12:00:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
