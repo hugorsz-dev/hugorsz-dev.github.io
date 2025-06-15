@@ -2,8 +2,7 @@
 
 ![Imagen GNU/Linux](terminal-ajustarbrillo.png)
 
-En vista de que no podía configurar manualmente el brillo de mis monitores desarrollé una utilidad para los sistemas operativos GNU/Linux dedicada a los entornos de escritorio que usan el protocolo XRandR (la gran mayoría en el ecosistema Linux).
-
+El ecosistema de Windows facilita herramientas de control de brillo a las que me había habituado, pero de las que carecía en mis entornos con base Linux, por lo que esarrollé una utilidad dedicada a los entornos de escritorio que - todavía -  usan el protocolo X.ORG (la gran mayoría).
 
 - Muestra en pantalla todos los monitores disponibles, en forma de lista numerada.
 - Permite elegir un monitor determinado o todos los monitores a la vez.

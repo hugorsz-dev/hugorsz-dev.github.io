@@ -8,6 +8,12 @@ Aquí encontrarás enlaces a [mi página de github](https://github.com/hugorsz-d
 
 Actualmente trabajo como ==desarrollador backend==, con una trayectoria iniciada en 2024. A lo largo de este primer año profesional he adquirido experiencia en el desarrollo de APIs en Java, mediante el empleo del famoso framework [Spring](https://spring.io/). 
 
+## Curriculum Vitae
+
+
+
+
+
 ----
 
 Lo que le falta al sitio es: 

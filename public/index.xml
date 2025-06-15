@@ -6,10 +6,16 @@
       <description>Últimas 10 notas on hugorsz-dev</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Curriculum Vitae</title>
+    <link>https://quartz.jzhao.xyz/Curriculum-Vitae</link>
+    <guid>https://quartz.jzhao.xyz/Curriculum-Vitae</guid>
+    <description>Hugo Ruiz Sánchez Analista Programador 🎯 Síntesis del Perfil Profesional Programador novel con experiencia en el diseño, desarrollo y mantenimiento de soluciones de software.</description>
+    <pubDate>Sun, 15 Jun 2025 15:36:48 GMT</pubDate>
+  </item><item>
     <title>Script en bash</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/Script-en-bash</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/Script-en-bash</guid>
-    <description>Script para XRandR que posibilita la reducción del brillo de los monitores desde una interfaz de software En vista de que no podía configurar manualmente el brillo de mis monitores desarrollé una utilidad para los sistemas operativos GNU/Linux dedicada a los entornos de escritorio que usan el protoc...</description>
+    <description>Script para XRandR que posibilita la reducción del brillo de los monitores desde una interfaz de software El ecosistema de Windows facilita herramientas de control de brillo a las que me había habituado, pero de las que carecía en mis entornos con base Linux, por lo que esarrollé una utilidad dedica...</description>
     <pubDate>Sun, 15 Jun 2025 14:52:06 GMT</pubDate>
   </item><item>
     <title>XBGG: Xrandr Brightness GUI for GTK4</title>
@@ -18,22 +24,34 @@
     <description>XBGG: Interfaz Gráfica de Brillo Xrandr para GTK4 Una aplicación GUI simple y moderna para ajustar el brillo y gamma de la pantalla en sistemas Linux usando xrandr y el stack gráfico Xorg.</description>
     <pubDate>Sun, 15 Jun 2025 14:52:06 GMT</pubDate>
   </item><item>
-    <title>Introducción</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Introducci%C3%B3n</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/HTMA:-Generador-de-sitios-est%C3%A1ticos/Introducci%C3%B3n</guid>
-    <description> HTML Template and Markdown Automator, o HTMA, es un sencillo generador de páginas estáticas programado en Python, que tiene como objetivo facilitar la integración de documentos en formato markdown, así como todo tipo de archivos, en HTML.</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
+    <title>Retos de programación</title>
+    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</link>
+    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</guid>
+    <description>Hubo un tiempo en que consideré realizar algunos retos de programación aplicados a distintos lenguajes, con la intención de no olvidarlos.</description>
+    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
   </item><item>
-    <title>Web-scrapping de enduring-world</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</guid>
-    <description> Scraper de Comentarios Una utilidad en Python para descargar y compilar los comentarios de la web de Enduring Word (versión en español).</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
+    <title>Antigua web de mis proyectos</title>
+    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Antigua-web-de-mis-proyectos</link>
+    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Antigua-web-de-mis-proyectos</guid>
+    <description>La vieja página donde documentaba mis proyectos; se trata de una plantilla original en forma de GRID, un tipo de cuadrícula responsiva.</description>
+    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
   </item><item>
-    <title>Conexiones WPA</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Conexiones-WPA</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Conexiones-WPA</guid>
-    <description>Script para wireless-tools que facilita la conexión a redes wifi WPA desde la terminal Para equipos que no hacen uso de entornos de escritorio que faciliten la tarea de mantener una conexión wifi con cifrado WPA, desarrollé un script en bash que emplea las utilidades wireless-tools (ifconfig, iwlist...</description>
+    <title>Herramienta de subida de imágenes</title>
+    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Herramienta-de-subida-de-im%C3%A1genes</link>
+    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Herramienta-de-subida-de-im%C3%A1genes</guid>
+    <description>Interfaz web que permite la subida de archivos mediante drag and drop via PHP Tras la caída de Anonfiles, un servicio privado de subida de archivos, decidí alojar mi propia alternativa de uso exclusivamente personal dentro de un VPS.</description>
+    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+  </item><item>
+    <title>Prototipo de blog</title>
+    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Prototipo-de-blog</link>
+    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Prototipo-de-blog</guid>
+    <description> Un mero prototipo que nunca acabé publicando, siendo que su diseño, aunque deliberadamente anticuado, no se adecuaba a ninguno de mis propósitos.</description>
+    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+  </item><item>
+    <title>Bienvenido</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Hola, soy Hugo Ruiz Sánchez, de España (Madrid), tengo echo $(( date +%Y - 2003 )) años, y me dedico al desarrollo de software.</description>
     <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
   </item><item>
     <title>pladur</title>
@@ -42,28 +60,10 @@
     <description>Pladur - Texto no seleccionable analizado con IA.</description>
     <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
   </item><item>
-    <title>C++</title>
-    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/C++</link>
-    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/C++</guid>
-    <description>Este repositorio contiene mi recorrido aprendiendo programación en C++.</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
-  </item><item>
-    <title>CSS</title>
-    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/CSS</link>
-    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/CSS</guid>
-    <description>Este repositorio contiene mi recorrido aprendiendo CSS (Cascading Style Sheets).</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
-  </item><item>
-    <title>HTML</title>
-    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/HTML</link>
-    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/HTML</guid>
-    <description>Este repositorio contiene mi recorrido aprendiendo HTML (HyperText Markup Language).</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
-  </item><item>
-    <title>Python</title>
-    <link>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Python</link>
-    <guid>https://quartz.jzhao.xyz/Historia-acad%C3%A9mica/Lenguajes/Python</guid>
-    <description>Este repositorio contiene mi recorrido aprendiendo programación en Python.</description>
+    <title>Web-scrapping de enduring-world</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</guid>
+    <description> Scraper de Comentarios Una utilidad en Python para descargar y compilar los comentarios de la web de Enduring Word (versión en español).</description>
     <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
   </item>
     </channel>

@@ -1,7 +1,8 @@
 # XBGG: Interfaz Gráfica de Brillo Xrandr para GTK4
-<div align="center" style="margin-bottom: 0;">  
-  <img src="https://github.com/user-attachments/assets/373ab630-763b-4ddf-b479-5644cdc0b253" />
-</div>
+
+
+
+![Imagen GNU/Linux](xbgg.png)
 
 Una aplicación GUI simple y moderna para ajustar el brillo y gamma de la pantalla en sistemas Linux usando xrandr y el stack gráfico Xorg.
 
