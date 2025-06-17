@@ -1,8 +1,22 @@
-# Hugo Ruiz Sánchez
+<div style="text-align: center; margin: 20px 0;">
+<h1> Hugo Ruiz Sánchez</h1>
+</div>
 
-![Imagen GNU/Linux](hugocv.png)
 
-## Analista Programador
+<div style="text-align: center; margin: 20px 0;">
+    <img src="hugocv.png" alt="Hugo Ruiz Sánchez" style="
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 3px solid #ddd;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    ">
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+<h2> Analista Programador</h2>
+</div>
 
 ---
 

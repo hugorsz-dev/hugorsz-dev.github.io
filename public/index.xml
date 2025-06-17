@@ -6,65 +6,65 @@
       <description>Últimas 10 notas on hugorsz-dev</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>ldle-diccionario-db</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/LDLE:-Libre-Diccionario-de-la-Lengua-Espa%C3%B1ola/ldle-diccionario-db</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/LDLE:-Libre-Diccionario-de-la-Lengua-Espa%C3%B1ola/ldle-diccionario-db</guid>
+    <description>Base de datos del Libre Diccionario de la Lengua Española Base de datos que contiene la casi totalidad de los vocablos de la lengua española, incluyendo las conjugaciones de todos sus verbos, junto con su definición, formas compuestas, sinónimos, entre otros recursos lexicográficos.</description>
+    <pubDate>Tue, 17 Jun 2025 18:57:05 GMT</pubDate>
+  </item><item>
+    <title>ldle-diccionario-cliente</title>
+    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/LDLE:-Libre-Diccionario-de-la-Lengua-Espa%C3%B1ola/ldle-diccionario-cliente</link>
+    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/LDLE:-Libre-Diccionario-de-la-Lengua-Espa%C3%B1ola/ldle-diccionario-cliente</guid>
+    <description>L·DLE - Libre Diccionario de la Lengua Española L· D L E Un diccionario libre de la lengua española Descripción L·DLE (Libre Diccionario de la Lengua Española) es una aplicación que proporciona todas las funcionalidades lexicográficas de un diccionario de español moderno y completo, con la ventaja d...</description>
+    <pubDate>Tue, 17 Jun 2025 18:45:33 GMT</pubDate>
+  </item><item>
     <title>Curriculum Vitae</title>
     <link>https://quartz.jzhao.xyz/Curriculum-Vitae</link>
     <guid>https://quartz.jzhao.xyz/Curriculum-Vitae</guid>
-    <description>Hugo Ruiz Sánchez Analista Programador 🎯 Síntesis del Perfil Profesional Programador novel con experiencia en el diseño, desarrollo y mantenimiento de soluciones de software.</description>
-    <pubDate>Sun, 15 Jun 2025 15:36:48 GMT</pubDate>
+    <description> Hugo Ruiz Sánchez Analista Programador 🎯 Síntesis del Perfil Profesional Programador novel con experiencia en el diseño, desarrollo y mantenimiento de soluciones de software.</description>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>Script en bash</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/Script-en-bash</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/Script-en-bash</guid>
     <description>Script para XRandR que posibilita la reducción del brillo de los monitores desde una interfaz de software El ecosistema de Windows facilita herramientas de control de brillo a las que me había habituado, pero de las que carecía en mis entornos con base Linux, por lo que esarrollé una utilidad dedica...</description>
-    <pubDate>Sun, 15 Jun 2025 14:52:06 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>XBGG: Xrandr Brightness GUI for GTK4</title>
     <link>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/XBGG:-Xrandr-Brightness-GUI-for-GTK4</link>
     <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/GNU+Linux/Ajuste-de-brillo-en-xrandr/XBGG:-Xrandr-Brightness-GUI-for-GTK4</guid>
     <description>XBGG: Interfaz Gráfica de Brillo Xrandr para GTK4 Una aplicación GUI simple y moderna para ajustar el brillo y gamma de la pantalla en sistemas Linux usando xrandr y el stack gráfico Xorg.</description>
-    <pubDate>Sun, 15 Jun 2025 14:52:06 GMT</pubDate>
-  </item><item>
-    <title>Retos de programación</title>
-    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</link>
-    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</guid>
-    <description>Hubo un tiempo en que consideré realizar algunos retos de programación aplicados a distintos lenguajes, con la intención de no olvidarlos.</description>
-    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>Antigua web de mis proyectos</title>
     <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Antigua-web-de-mis-proyectos</link>
     <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Antigua-web-de-mis-proyectos</guid>
     <description>La vieja página donde documentaba mis proyectos; se trata de una plantilla original en forma de GRID, un tipo de cuadrícula responsiva.</description>
-    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>Herramienta de subida de imágenes</title>
     <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Herramienta-de-subida-de-im%C3%A1genes</link>
     <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Herramienta-de-subida-de-im%C3%A1genes</guid>
     <description>Interfaz web que permite la subida de archivos mediante drag and drop via PHP Tras la caída de Anonfiles, un servicio privado de subida de archivos, decidí alojar mi propia alternativa de uso exclusivamente personal dentro de un VPS.</description>
-    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>Prototipo de blog</title>
     <link>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Prototipo-de-blog</link>
     <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Modelos-de-p%C3%A1ginas-web/Prototipo-de-blog</guid>
     <description> Un mero prototipo que nunca acabé publicando, siendo que su diseño, aunque deliberadamente anticuado, no se adecuaba a ninguno de mis propósitos.</description>
-    <pubDate>Sat, 03 May 2025 15:17:44 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
+  </item><item>
+    <title>Retos de programación</title>
+    <link>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</link>
+    <guid>https://quartz.jzhao.xyz/Proyectos-marginales/Retos-de-programaci%C3%B3n</guid>
+    <description>Hubo un tiempo en que consideré realizar algunos retos de programación aplicados a distintos lenguajes, con la intención de no olvidarlos.</description>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item><item>
     <title>Bienvenido</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>Hola, soy Hugo Ruiz Sánchez, de España (Madrid), tengo echo $(( date +%Y - 2003 )) años, y me dedico al desarrollo de software.</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
-  </item><item>
-    <title>pladur</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/pladur</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/pladur</guid>
-    <description>Pladur - Texto no seleccionable analizado con IA.</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
-  </item><item>
-    <title>Web-scrapping de enduring-world</title>
-    <link>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</link>
-    <guid>https://quartz.jzhao.xyz/Desarrollo-de-software/Automatizaci%C3%B3n-web/Web-scrapping-de-enduring-world</guid>
-    <description> Scraper de Comentarios Una utilidad en Python para descargar y compilar los comentarios de la web de Enduring Word (versión en español).</description>
-    <pubDate>Sun, 20 Apr 2025 11:25:28 GMT</pubDate>
+    <pubDate>Sun, 15 Jun 2025 15:37:14 GMT</pubDate>
   </item>
     </channel>
   </rss>

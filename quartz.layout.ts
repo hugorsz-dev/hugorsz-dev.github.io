@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Correo electrónico": "mailto:hugoruizschz@gmail.com",
       "Linkedin": "https://www.linkedin.com/in/hugoruizsanchez/",
-      "CV": "#"
+      "CV": "http://hugorsz-dev.github.io/Curriculum-Vitae"
     },
   }),
 }
