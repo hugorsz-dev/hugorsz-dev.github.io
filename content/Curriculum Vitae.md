@@ -115,4 +115,5 @@ Manipulación experta de:
 
 ## 📧 Información de Contacto
 
-*[Agregar información de contacto según necesidades]*
+- Correo electrónico: [hugoruizschz@gmail.com](mailto:hugoruizschz@gmail.com)
+- Número de teléfono: (+34) 604 96 85 00
