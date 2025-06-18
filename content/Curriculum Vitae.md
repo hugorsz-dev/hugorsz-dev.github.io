@@ -20,100 +20,76 @@
 
 ---
 
-## 🎯 Síntesis del Perfil Profesional
 
-Programador novel con experiencia en el diseño, desarrollo y mantenimiento de soluciones de software. Especializado en tecnologías backend y frontend con enfoque en la calidad del código y mejores prácticas de desarrollo.
+## Síntesis del Perfil Profesional  
+Programador novel, con experiencia en el diseño, desarrollo y mantenimiento de soluciones de software.
 
----
+## Experiencia Profesional  
 
-## 💼 Experiencia Profesional
+**Empresa:** Amplía Soluciones S.L.  
+**Fecha Inicio:** 03/04/2024  
+**Fecha Fin:** Actualmente  
+**Puesto / Perfil Profesional:** Analista programador  
 
-### **Analista Programador** | *Amplía Soluciones S.L.*
-**📅 Abril 2024 - Presente**
+**Funciones**  
+➢ Identificación y análisis de requerimientos para el desarrollo de soluciones de software, utilizando diversos lenguajes de programación como Java y Groovy, y frameworks como Spring.  
+➢ Diseño y ejecución de casos de prueba enfocados en garantizar la calidad del software.  
+➢ Implementación de servicios RESTful, incluyendo operaciones CRUD, personalización de modelos de datos y reestructuración de recursos.  
+➢ Migración de datos, asegurando la integridad, consistencia y trazabilidad de la información durante el proceso.
 
-#### Funciones principales:
-- **Análisis y desarrollo**: Identificación y análisis de requerimientos para el desarrollo de soluciones de software, utilizando Java, Groovy y frameworks como Spring
-- **Testing y calidad**: Diseño y ejecución de casos de prueba enfocados en garantizar la calidad del software
-- **Desarrollo de APIs**: Implementación de servicios RESTful, incluyendo operaciones CRUD, personalización de modelos de datos y reestructuración de recursos
-- **Migración de datos**: Asegurando la integridad, consistencia y trazabilidad de la información durante el proceso
 
-#### Principales proyectos:
-- **📚 Reforma de documentación ODM (OpenGate Doc)**
-  - Facilitación de modificaciones
-  - Corrección de estructura
-  - Mejora de enunciados
+## Formación Académica  
 
-- **🔧 API de ODM**
-  - Implementación del CRUD completo para Software
-  - Adaptación del modelo de datos para modificación dinámica de `specificType`
-  - Eliminación del recurso de domains en favor de organizaciones
+**Titulación:** Desarrollo de Aplicaciones Web (DAW)  
+**Año:** 2024  
+**Nombre del Centro:** IES Virgen de la Paloma.
 
----
+**Titulación:** Módulo de formación dual "Big Data+"  
+**Año:** 2024  
+**Nombre del Centro:** Cámara de Comercio Alemana para España
 
-## 🎓 Formación Académica
+**Titulación:** Proyectos personales, y aprendizajes en curso actualizados.  
+**Año:** Actualmente  
+**Nombre del Centro:** Mi página de Github
 
-| Año | Titulación | Centro |
-|-----|------------|--------|
-| **2024** | **Desarrollo de Aplicaciones Web (DAW)** | IES Virgen de la Paloma |
-| **2024** | **Módulo de formación dual "Big Data+"** | Cámara de Comercio Alemana para España |
-| **Presente** | **Proyectos personales y aprendizaje continuo** | [Mi página de Github](https://github.com/) |
+## Conocimientos Técnicos y competencias
 
----
+### Lenguajes de programación
 
-## 💻 Conocimientos Técnicos y Competencias
+**➢ Python**  
+◦ Proyectos de automatización web - web scrapping.  
+◦ Uso en Big Data, mediante la librería pandas y proyección en gráficos y tablas con seaborn y matplotlib.  
+◦ Manipulación de grandes bancos de datos.  
+◦ Desarrollo de aplicativos destinados a ejecutarse en servidor, como bots para la herramienta de mensajería Whatsapp, mediante una API independiente.
 
-### **Lenguajes de Programación**
+**➢ Java (Groovy)**  
+◦ Experiencia profesional en el desarrollo de APIs a través del framework de Spring.  
+◦ Composición de scripts en groovy.
 
-#### 🐍 **Python**
-- Proyectos de automatización web y web scraping
-- Big Data con pandas, visualización con seaborn y matplotlib
-- Manipulación de grandes bases de datos
-- Desarrollo de aplicaciones servidor (bots de WhatsApp mediante API)
+**➢ Rust**  
+◦ Estudio completo del libro de Rust, efectuado con ejemplos prácticos de cada sección.  
+◦ Creación de útiles para la gestión del sistema operativo LINUX.  
+◦ Diseño de interfaces con la librería de GTK, implementadas en proyectos de diversa índole.
 
-#### ☕ **Java (Groovy)**
-- Experiencia profesional en desarrollo de APIs con Spring Framework
-- Composición de scripts en Groovy
+**➢ Tecnologías frontend en desarrollo web**  
+◦ He empleado un uso intensivo de Javascript - en obvio conjunto con HTML y CSS -, para el desarrollo de aplicaciones web previstas, por ejemplo, para la gestión de inventarios, o consultas masivas de datos.
 
-#### 🦀 **Rust**
-- Estudio completo del libro oficial con ejemplos prácticos
-- Creación de herramientas para gestión de sistemas Linux
-- Diseño de interfaces gráficas con GTK
+**➢ Bash**  
+◦ Automatización de tareas, en el ámbito personal como profesional.  
+◦ Gestión del sistema - acceso a conexiones WPA, control del brillo...
 
-#### 🌐 **Tecnologías Frontend**
-- JavaScript intensivo con HTML y CSS
-- Desarrollo de aplicaciones web para gestión de inventarios
-- Consultas masivas de datos
+### Bases de Datos  
+Manipulación solvente de bases de datos relacionales (MySQL - Maria DB, SQL, Oracle) y no relacionales (MongoDB, así como los lenguajes de marcas JSON, XML, YAML, entre otros), que he aplicado tanto en mis proyectos personales como en el ámbito profesional.
 
-#### 🐚 **Bash**
-- Automatización de tareas personales y profesionales
-- Gestión de sistemas (conexiones WPA, control de brillo, etc.)
+### Sistemas Operativos  
+Experiencia en la administración de sistemas operativos con base LINUX, adquirida en la instalación y configuración de servidores VPS empleados para mis proyectos personales y académicos, e implementación de servicios de red.  
+Habituado a distribuciones de escritorio (Debian, Arch, Fedora), con cuyos paquetes estoy más que familiarizado, y sobre las que he explorado el uso de bash para la automatización de tareas, o herramientas relacionadas con la gestión del sistema.
 
-### **Bases de Datos**
-Manipulación experta de:
-- **Relacionales**: MySQL, MariaDB, SQL, Oracle
-- **No relacionales**: MongoDB
-- **Lenguajes de marcas**: JSON, XML, YAML
+## Idiomas
 
-### **Sistemas Operativos**
-- **Administración Linux**: Configuración de servidores VPS
-- **Distribuciones**: Debian, Arch, Fedora
-- **Servicios de red**: Implementación y configuración
-- **Automatización**: Bash scripting y herramientas de gestión
+**Inglés:** Alto  
+*Escala utilizada: Bajo-Medio-Alto-Muy Alto*  
+**Titulación Oficial:** First Certificate in English - Cambridge  
 
----
-
-## 🌍 Idiomas
-
-| Idioma | Nivel | Certificación |
-|--------|-------|---------------|
-| **Español** | Nativo | - |
-| **Inglés** | Alto | First Certificate in English - Cambridge |
-
-*Escala utilizada: Bajo - Medio - Alto - Muy Alto*
-
----
-
-## 📧 Información de Contacto
-
-- Correo electrónico: [hugoruizschz@gmail.com](mailto:hugoruizschz@gmail.com)
-- Número de teléfono: (+34) 604 96 85 00
+**Español:** Nativo  
+*Escala utilizada: Bajo-Medio-Alto-Muy Alto*
